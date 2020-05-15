@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PersonalCookbook</string>
+    <string name="_8_10_menit">8 - 10 menit</string>
+    <string name="durasi">Durasi</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="_2_3_orang">2 - 3 Orang</string>
+    <string name="porsi">Porsi</string>
+    <string name="langkah_langkah">Langkah-langkah</string>
+    <string name="bahan_bahan">Bahan-bahan</string>
+    <string name="test_detail">Hidangan daging ayam fillet dada yang diolah dengan bmbu racikan pilihan serta dibalut dengan saus mentega yang nikmat sangat cocok bagi anda yang tidak menyukai rasa pedas</string>
+    <string name="test_ingredients">1\tekor ayam negri, potong 8 buah\n2\tsiung bawang putih\n1/2\tsdt merica butiran\n2\tsdt garam\n2\tsdm mentega\n75\tg bawang bombay, iris kasar\n2\tsdm saus Inggris\n1\tsdm kecapasin\n1\tsdm kecap manis\n1\tsdm air jeruk nipis/limau\n1\tsdm garam</string>
+    <string name="test_recipe">1. Taruh minyak 1/3 wajan dan panaskan\n2. Masukan telur\n3. Kocok hingga berbusa\n4. Gulung-gulung\n5. ANGKAT</string>
+    <string name="fotoDESC">FOTO</string>
+    <string name="about">about</string>
+    <string name="nathaniel_faustine">Nathaniel Faustine</string>
+    <string name="faustinenathaniel_gmail_com">faustinenathaniel@gmail.com</string>
+</resources>
